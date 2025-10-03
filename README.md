@@ -1,4 +1,4 @@
-# Montgomery County Car Crash Analysis (Tableau Project)
+# Montgomery County, Maryland Car Crash Dashboard (Tableau)
 
 ## Project Overview
 This project analyzes vehicle collision data from **Montgomery County, Maryland** using **Tableau** to uncover insights about road conditions, driver behavior, and vehicle attributes that contribute to crashes.  
