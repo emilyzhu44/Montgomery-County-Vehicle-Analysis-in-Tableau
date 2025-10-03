@@ -61,7 +61,11 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 - Across body types, accidents were most often caused by vehicles moving at a **constant speed**.  
 
 **Dashboard Screenshot – Vehicle Conditions**  
-![Vehicle Conditions Dashboard](images/vehicle_conditions.png)  
+<div align="center">
+      
+![Vehicle Conditions Dashboard](https://github.com/emilyzhu44/Montgomery-County-Vehicle-Analysis-in-Tableau/blob/main/Vehicle%20body%20type%20Dashboard.png)  
+
+</div>
 
 ---
 
