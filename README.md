@@ -82,7 +82,7 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 
 ---
 
-## Tools & Skills Demonstrated
+## Tools & Skills 
 - **Tableau**: Data visualization, dashboard design, storytelling with data  
 - **Data Cleaning & Preprocessing**: Removing irrelevant categories, preparing data for visualization  
 - **Business Analysis**: Translating findings into real-world recommendations  
