@@ -47,7 +47,11 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 - Most accidents occurred under **ideal weather conditions**, highlighting that traffic density > weather in predicting accidents.  
 
 **Dashboard Screenshot – Road Conditions**  
-![Road Conditions Dashboard](images/road_conditions.png)  
+<div align="center">
+      
+![Road Conditions Dashboard](https://github.com/emilyzhu44/Montgomery-County-Vehicle-Analysis-in-Tableau/blob/main/Road%20Conditions%20Dashboard.png)  
+
+</div>
 
 ---
 
