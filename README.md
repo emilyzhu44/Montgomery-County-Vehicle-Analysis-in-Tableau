@@ -17,10 +17,6 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 ---
 
 ## Variables Analyzed
-**Road Conditions**
-- Time & location of accident  
-- Weather conditions  
-- Speed limit & surface conditions  
 
 **Driver Conditions**
 - Substance use  
@@ -31,26 +27,17 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 - Make & model  
 - Body type  
 - Year of manufacture  
-- Movement at time of crash  
+- Movement at time of crash
+
+**Road Conditions**
+- Time & location of accident  
+- Weather conditions  
+- Speed limit & surface conditions  
 
 **Response Variables**
 - Injury severity  
 - Collision type  
 - Extent of vehicle damage  
-
----
-
-## Key Insights (from Tableau Dashboards)
-
-### Road Conditions
-- Most accidents occurred under **ideal weather conditions**, highlighting that traffic density > weather in predicting accidents.  
-
-**Dashboard Screenshot – Road Conditions**  
-<div align="center">
-      
-![Road Conditions Dashboard](https://github.com/emilyzhu44/Montgomery-County-Vehicle-Analysis-in-Tableau/blob/main/Road%20Conditions%20Dashboard.png)  
-
-</div>
 
 ---
 
@@ -77,6 +64,19 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 <div align="center">
       
 ![Driver Conditions Dashboard](https://github.com/emilyzhu44/Montgomery-County-Vehicle-Analysis-in-Tableau/blob/main/Injury%20Severity%20Dashboard.png)  
+
+</div>
+
+---
+## Key Insights (from Tableau Dashboards)
+
+### Road Conditions
+- Most accidents occurred under **ideal weather conditions**, highlighting that traffic density > weather in predicting accidents.  
+
+**Dashboard Screenshot – Road Conditions**  
+<div align="center">
+      
+![Road Conditions Dashboard](https://github.com/emilyzhu44/Montgomery-County-Vehicle-Analysis-in-Tableau/blob/main/Road%20Conditions%20Dashboard.png)  
 
 </div>
 
