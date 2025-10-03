@@ -43,7 +43,6 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 ## Key Insights (from Tableau Dashboards)
 
 ### Road Conditions
-- Crashes peak during **weekday rush hours** and in **high-traffic areas** (shopping centers, schools, churches).  
 - Most accidents occurred under **ideal weather conditions**, highlighting that traffic density > weather in predicting accidents.  
 
 **Dashboard Screenshot – Road Conditions**  
