@@ -67,7 +67,7 @@ The goal was to turn raw vehicle crash data into **actionable business insights*
 - **Traffic infrastructure** plays a key role in reducing driver error and confusion.  
 
 **Dashboard Screenshot – Driver Conditions**  
-![Driver Conditions Dashboard](images/driver_conditions.png)  
+![Driver Conditions Dashboard](https://github.com/emilyzhu44/Montgomery-County-Vehicle-Analysis-in-Tableau/blob/main/Injury%20Severity%20Dashboard.png)  
 
 ---
 
